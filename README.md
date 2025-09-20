@@ -1,3 +1,5 @@
+![Turkey Sweep Kit Keyboard](/images/Turkey-Sweep-Kit.png)
+
 # Turkey Sweep Kit Keyboard
 The Sweep is an ultra-minimal, low-profile split ergonomic keyboard that’s all about simplicity, speed, and comfort. With its compact 34-key column-staggered layout with choc spacing, the Sweep encourages efficient typing by reducing finger travel and promoting a natural wrist position. Its lightweight and portable design makes it perfect for travel, minimalist setups, or anyone looking to try a smaller ergonomic keyboard without sacrificing functionality.
 
